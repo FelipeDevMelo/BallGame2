@@ -98,3 +98,4 @@ Received Import Request.
 Start importing Assets/Sprites/tilesets.PNG using Guid(42d963a40f621244c8ea3f28f77ebaa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ef02da73881056f204ebe29b35db77') in 0.020655 seconds
   Import took 0.062646 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
